@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.apache.tomcat:tomcat-coyote:7.0.22" type="repository">
+    <properties maven-id="org.apache.tomcat:tomcat-coyote:7.0.22" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-coyote-7.0.22.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/tomcat-juli-7.0.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
